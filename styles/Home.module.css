@@ -1,0 +1,11 @@
+.main {
+  height: 450px;
+  width: 500px;
+  border: solid black 5px;
+  list-style: none;
+  background-image: linear-gradient(135deg, #81fbb8 10%, #28c76f 100%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
